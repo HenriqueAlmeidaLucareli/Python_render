@@ -1,6 +1,6 @@
-CREATE DATABASE movies;
+CREATE DATABASE buvbrufbeuribveb;
 
-\c movies;
+\c buvbrufbeuribveb;
 
 CREATE TABLE movies (
   name   VARCHAR(255),
