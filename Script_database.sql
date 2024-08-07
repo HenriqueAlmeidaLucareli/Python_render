@@ -1,8 +1,8 @@
-CREATE DATABASE movies;
+CREATE DATABASE movies_7hy4;
 
 \c movies;
 
-CREATE TABLE movies (
+CREATE TABLE movies_7hy4 (
   name   VARCHAR(255),
   rating NUMERIC
 );
