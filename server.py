@@ -8,6 +8,7 @@ def get_db_connection():
     conn = psycopg2.connect(host='recoop-germinare-9764.h.aivencloud.com',
                             database='buvbrufbeuribveb',
                             user='avnadmin',
+                            port='16983',
                             password='AVNS_DAFAJWqxMl1ba9hBbcZ')
     return conn
 
